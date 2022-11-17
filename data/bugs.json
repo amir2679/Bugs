@@ -1,0 +1,46 @@
+[
+  {
+    "title": "Test",
+    "severity": 1,
+    "createdAt": 1668658246164,
+    "description": "New bug",
+    "owner": {
+      "_id": "iFeco",
+      "fullname": "Muki Ba"
+    },
+    "_id": "rkWWn"
+  },
+  {
+    "title": "Spider",
+    "severity": 2,
+    "createdAt": 1668658215701,
+    "description": "New bug",
+    "owner": {
+      "_id": "iFeco",
+      "fullname": "Muki Ba"
+    },
+    "_id": "le2np"
+  },
+  {
+    "title": "Beetle",
+    "severity": 3,
+    "createdAt": 1668658198528,
+    "description": "New bug",
+    "owner": {
+      "_id": "pbiPK",
+      "fullname": "Amir Gombo"
+    },
+    "_id": "DMF7T"
+  },
+  {
+    "_id": "abc123",
+    "title": "Beetle",
+    "description": "My beetle",
+    "severity": 3,
+    "createdAt": 1542107359454,
+    "owner": {
+      "_id": "pbiPK",
+      "fullname": "Amir Gombo"
+    }
+  }
+]

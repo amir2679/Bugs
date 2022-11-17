@@ -1,0 +1,15 @@
+[
+  {
+    "fullname": "Muki Ba",
+    "username": "muki",
+    "password": "secret",
+    "_id": "iFeco"
+  },
+  {
+    "fullname": "Amir Gombo",
+    "username": "amir",
+    "password": "1234",
+    "_id": "pbiPK",
+    "isAdmin": true
+  }
+]
